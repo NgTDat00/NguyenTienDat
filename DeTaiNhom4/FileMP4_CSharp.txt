@@ -1,0 +1,71 @@
+Bài thực hành CSharp 1
+
+https://drive.google.com/open?id=13__OvAMJFR-aS4OY7IIHTv4Yx8xRVCTh
+
+Bài thực hành CSharp 2
+
+https://drive.google.com/open?id=1QVskhEeXU3yU-ibE2owCj_yVekRlYt3O
+
+Bài thực hành CSharp 3
+
+https://drive.google.com/open?id=1vyFGRhEAopzpi3D320_KS0XY8X7YH8ph
+
+Bài thực hành CSharp 4
+
+https://drive.google.com/open?id=1NSH707O2ai3jsvTJSZg_njfYXtP4OGbp
+
+Bài thực hành CSharp 5
+
+https://drive.google.com/open?id=14V8NiFhSheMK73CaUR-LeMLa8pKRugZB
+
+Bài thực hành CSharp 6
+
+https://drive.google.com/open?id=1HrPm9-mMHd1PsGIEpsIpsvvCIp2QXDIo
+
+Bài thực hành CSharp 7: Timer
+
+https://drive.google.com/open?id=1WWt_I08fTB1j0Y9Pebt_Xc1HJM28uYQb
+
+Bài thực hành CSharp 8: Display status của ảnh
+
+https://drive.google.com/open?id=1qe8C8yr578MK_OsVLctxhabvqb_irugD
+
+Bài thực hành CSharp 9: Scroll ảnh
+
+https://drive.google.com/open?id=1sDUvM9kiooETfePDKoegsZI_ODNzfhey
+
+Bài thực hành CSharp 10: Truyền dữ liệu từ form1 xuống form2 (truyền thuận)
+
+https://drive.google.com/open?id=1f8MyIyd8XhjfWgOa6_A7f6KWSFqWcy1k
+
+Bài thực hành CSharp 11: Truyền dữ liệu từ form2 lên form1 (truyền ngược)
+
+https://drive.google.com/open?id=13ywqflUhdqvjDBdT0l12AtpR1dHn3J_y
+
+Bài thực hành CSharp 12: Vẽ hình tròn và xem thư mục
+
+https://drive.google.com/open?id=12ZoZhDulRjyiIRkpmJw8QfoRKsgKocCY
+
+Bài thực hành CSharp 13: Xử lý file DiemDanh của Google Meet
+
+File text do Google Meet tạo ra:
+
+https://drive.google.com/file/d/1id00PSGGVezwHyEvtE64Hx2tjiWx-WWE/view?usp=sharing
+
+Các bạn download xuống để làm bài
+
+https://drive.google.com/open?id=1Gg3APNEhQxqcD_BGHLqFL4_Wx2aFAjVw
+
+Bài thực hành CSharp 14: Vẽ đồ thị
+
+https://drive.google.com/open?id=1rKKypiNw7GNP1IHFaA1dEUQaMe8_J0LG
+
+Bài thực hành CSharp 15: Vẽ đồ thị bar
+
+https://drive.google.com/open?id=1BAFwdztcNejfSm3pIneALeiDlqn7yTGP
+
+Bài thực hành CSharp 16: TrackBar thay đổi biên độ của đường sin
+
+https://drive.google.com/open?id=1YvnpWCOdxsC3s2IlDB5JVolU9v8Ybx8A
+
+
